@@ -1,0 +1,192 @@
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\ApplicationInsights.config
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\csc.exe
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\csc.exe.config
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\csc.rsp
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\csi.exe
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\csi.rsp
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\System.AppContext.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\System.IO.FileSystem.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\vbc.exe
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\vbc.exe.config
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\vbc.rsp
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\VBCSCompiler.exe
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\CarStore.dll.config
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\CarStore.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\CarStore.pdb
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Antlr3.Runtime.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\EntityFramework.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\EntityFramework.SqlServer.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.Web.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.ApplicationInsights.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Newtonsoft.Json.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Owin.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.Helpers.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.Mvc.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.Optimization.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.Razor.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.WebPages.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.WebPages.Razor.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\WebGrease.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.Helpers.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.Mvc.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.Optimization.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.Razor.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.WebPages.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\System.Web.WebPages.Razor.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Antlr3.Runtime.pdb
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Newtonsoft.Json.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\EntityFramework.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\EntityFramework.SqlServer.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.ApplicationInsights.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\bin\Microsoft.AI.Web.xml
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\obj\Debug\CarStore.csprojResolveAssemblyReference.cache
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\obj\Debug\CarStore.dll
+c:\users\ivelin\documents\visual studio 2017\Projects\CarStore\CarStore\obj\Debug\CarStore.pdb
+D:\carStore\CarStore\bin\ApplicationInsights.config
+D:\carStore\CarStore\bin\roslyn\csc.exe
+D:\carStore\CarStore\bin\roslyn\csc.exe.config
+D:\carStore\CarStore\bin\roslyn\csc.rsp
+D:\carStore\CarStore\bin\roslyn\csi.exe
+D:\carStore\CarStore\bin\roslyn\csi.rsp
+D:\carStore\CarStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\carStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\carStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\carStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\carStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\carStore\CarStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\carStore\CarStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\carStore\CarStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\carStore\CarStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\carStore\CarStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\carStore\CarStore\bin\roslyn\System.AppContext.dll
+D:\carStore\CarStore\bin\roslyn\System.Collections.Immutable.dll
+D:\carStore\CarStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\carStore\CarStore\bin\roslyn\System.IO.FileSystem.dll
+D:\carStore\CarStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\carStore\CarStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\carStore\CarStore\bin\roslyn\vbc.exe
+D:\carStore\CarStore\bin\roslyn\vbc.exe.config
+D:\carStore\CarStore\bin\roslyn\vbc.rsp
+D:\carStore\CarStore\bin\roslyn\VBCSCompiler.exe
+D:\carStore\CarStore\bin\roslyn\VBCSCompiler.exe.config
+D:\carStore\CarStore\bin\CarStore.dll.config
+D:\carStore\CarStore\bin\CarStore.dll
+D:\carStore\CarStore\bin\CarStore.pdb
+D:\carStore\CarStore\bin\Antlr3.Runtime.dll
+D:\carStore\CarStore\bin\EntityFramework.dll
+D:\carStore\CarStore\bin\EntityFramework.SqlServer.dll
+D:\carStore\CarStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\carStore\CarStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\carStore\CarStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\carStore\CarStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\carStore\CarStore\bin\Microsoft.AI.Web.dll
+D:\carStore\CarStore\bin\Microsoft.AI.WindowsServer.dll
+D:\carStore\CarStore\bin\Microsoft.ApplicationInsights.dll
+D:\carStore\CarStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\carStore\CarStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\carStore\CarStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\carStore\CarStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\carStore\CarStore\bin\Microsoft.Owin.dll
+D:\carStore\CarStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.dll
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.Google.dll
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\carStore\CarStore\bin\Microsoft.Web.Infrastructure.dll
+D:\carStore\CarStore\bin\Newtonsoft.Json.dll
+D:\carStore\CarStore\bin\Owin.dll
+D:\carStore\CarStore\bin\System.Web.Helpers.dll
+D:\carStore\CarStore\bin\System.Web.Mvc.dll
+D:\carStore\CarStore\bin\System.Web.Optimization.dll
+D:\carStore\CarStore\bin\System.Web.Razor.dll
+D:\carStore\CarStore\bin\System.Web.WebPages.Deployment.dll
+D:\carStore\CarStore\bin\System.Web.WebPages.dll
+D:\carStore\CarStore\bin\System.Web.WebPages.Razor.dll
+D:\carStore\CarStore\bin\WebGrease.dll
+D:\carStore\CarStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\carStore\CarStore\bin\System.Web.Helpers.xml
+D:\carStore\CarStore\bin\System.Web.Mvc.xml
+D:\carStore\CarStore\bin\System.Web.Optimization.xml
+D:\carStore\CarStore\bin\System.Web.Razor.xml
+D:\carStore\CarStore\bin\System.Web.WebPages.xml
+D:\carStore\CarStore\bin\System.Web.WebPages.Deployment.xml
+D:\carStore\CarStore\bin\System.Web.WebPages.Razor.xml
+D:\carStore\CarStore\bin\Antlr3.Runtime.pdb
+D:\carStore\CarStore\bin\Newtonsoft.Json.xml
+D:\carStore\CarStore\bin\EntityFramework.xml
+D:\carStore\CarStore\bin\EntityFramework.SqlServer.xml
+D:\carStore\CarStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\carStore\CarStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\carStore\CarStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\carStore\CarStore\bin\Microsoft.Owin.xml
+D:\carStore\CarStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.xml
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.Google.xml
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\carStore\CarStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\carStore\CarStore\bin\Microsoft.ApplicationInsights.xml
+D:\carStore\CarStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\carStore\CarStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\carStore\CarStore\bin\Microsoft.AI.WindowsServer.xml
+D:\carStore\CarStore\bin\Microsoft.AI.Web.xml
+D:\carStore\CarStore\obj\Debug\CarStore.csprojResolveAssemblyReference.cache
+D:\carStore\CarStore\obj\Debug\CarStore.dll
+D:\carStore\CarStore\obj\Debug\CarStore.pdb
