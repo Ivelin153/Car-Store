@@ -96,7 +96,7 @@ namespace CarStore.Migrations
                 Power = 400,
                 Color = "Black",
                 Price = 150000,
-                ImageUrl = "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVN9VA4Gjku5EWdsrNG1i8Nn0naftaM_0xOKv6E640Nb8fGSvj8QGrud0",
+                ImageUrl = "http://o.aolcdn.com/commerce/autodata/images/USC50AUC041B021001.jpg",
                 OwnerId = user.Id
             });
 
@@ -114,8 +114,8 @@ namespace CarStore.Migrations
                 ImageUrl = "http://blogmedia.dealerfire.com/wp-content/uploads/sites/316/2015/08/2017-Mercedes-AMG-S63-Convertible-release-date.jpg",
                 OwnerId = user.Id
             });
-
-
         }
+
     }
 }
+

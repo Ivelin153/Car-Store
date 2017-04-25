@@ -58,25 +58,65 @@
                 .Where(c => c.Id == id)
                 .Select(c => new CarDetailsModel
                 {
-                    Color =c.Color,
-                    Engine=c.Engine,
-                    EngineType=c.EngineType,
-                    ImageUrl=c.ImageUrl,
-                    Make=c.Make,
-                    Model=c.Model,
-                    Power=c.Power,
-                    Price=c.Price,
-                    Year=c.Year,
+                    Color = c.Color,
+                    Engine = c.Engine,
+                    EngineType = c.EngineType,
+                    ImageUrl = c.ImageUrl,
+                    Make = c.Make,
+                    Model = c.Model,
+                    Power = c.Power,
+                    Price = c.Price,
+                    Year = c.Year,
                     ContactInformation = c.Owner.Email
                 })
                 .FirstOrDefault();
 
-            if (car==null)
+            if (car == null)
             {
                 return HttpNotFound();
             }
 
             return View(car);
+        }
+        //
+        //GET: Cars/All
+        public ActionResult All(int page = 1, string user = null)
+        {
+            var db = new CarDbContext();
+
+            var pageSize = 5;
+
+            var carsQuery = db.Cars.AsQueryable();
+
+            if (user != null)
+            {
+                carsQuery = carsQuery
+                    .Where(c => c.Owner.Email == user);
+            }
+
+
+            var cars = carsQuery
+                .OrderByDescending(c => c.Id)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .Select(c => new CarListingModel
+                {
+                    Id = c.Id,
+                    ImageUrl = c.ImageUrl,
+                    Make = c.Make,
+                    Model = c.Model,
+                    Year = c.Year,
+                    Type = c.Type,
+                    EngineType = c.EngineType,
+                    Engine = c.Engine,
+                    Power = c.Power,
+                    Price = c.Price
+                })
+                .ToList();
+
+            ViewBag.CurrentPage = page;
+
+            return View(cars);
         }
     }
 }

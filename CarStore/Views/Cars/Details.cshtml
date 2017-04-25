@@ -9,6 +9,13 @@
         <h3>@Model.Year - @Model.Price BGN</h3>
         <p class="lead">
             <a href="mailto:@Model.ContactInformation">@Model.ContactInformation</a>
+            <br />
+            <div class="btn btn-default ">
+                <a href="/Cars/All?user=@Model.ContactInformation">
+                    <h5>See all cars by this user</h5>
+                </a>
+            </div>
+            
         </p>
     </div>
     <div class="col-md-4">
@@ -19,7 +26,7 @@
             @if (Model.Power != null)
             {
                 <span>@Model.Power hp.</span>
-            }            
+            }
         </p>
     </div>
 </div>

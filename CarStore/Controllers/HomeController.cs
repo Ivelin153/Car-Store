@@ -13,7 +13,7 @@
             var cars = db.Cars
                 .OrderByDescending(c => c.Id)
                 .Take(3)
-                .Select(c => new HomeIndexCarModel
+                .Select(c => new CarListingModel
                 {
                     Id = c.Id,
                     Year = c.Year,
@@ -29,13 +29,6 @@
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
 
             return View();
         }
