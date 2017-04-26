@@ -2,11 +2,7 @@
 {
     using CarStore.Data;
     using CarStore.Helpers;
-    using System;
-    using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
-    using System.Linq;
-    using System.Web;
 
     public class CreateCarModel
     {
@@ -36,6 +32,7 @@
         public decimal Price { get; set; }
 
         [Display(Name = "Additional Information")]
+        [ScaffoldColumn(false)]
         public string AdditionalInformation { get; set; }
 
         [Url]

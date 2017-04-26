@@ -6,19 +6,26 @@
 
 @using (Html.BeginForm("Create", "Cars", FormMethod.Post))
 {
-    @Html.EditorForModel()
+    @Html.EditorForModel()    
 
     <div>
-        @Html.LabelFor(m=>m.EngineType)
+        @Html.LabelFor(m => m.EngineType)
     </div>
+
     <div>
         @Html.EnumDropDownListFor(m => m.EngineType)
     </div>
-    
 
     <br />
-
     <div>
-        <input type="submit" value="Save Car" />
+        @Html.LabelFor(m=>m.AdditionalInformation)
+    </div>
+    <div>
+        @Html.TextAreaFor(m => m.AdditionalInformation)
+    </div>
+
+    <br />
+    <div>
+        <input type="submit" value="Add car" />
     </div>
 }

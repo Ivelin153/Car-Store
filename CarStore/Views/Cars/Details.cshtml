@@ -1,13 +1,19 @@
 ﻿@model CarStore.Models.Cars.CarDetailsModel
 
+@{
+    ViewBag.Title = Model.Make + " " + Model.Model;
+}
+
 <div class="row mt-60">
     <div class="col-md-4">
-        <img src="@Model.ImageUrl" class="img-responsive" />
+        <img src="@Model.ImageUrl" class="img-responsive img-rounded table-bordered" />
     </div>
     <div class="col-md-4">
         <h2 class="car-details">@Model.Make @Model.Model, @(Model.Color != null ? Model.Color : string.Empty)</h2>
         <h3>@Model.Year - @Model.Price BGN</h3>
+        <p>@Model.AdditionalInformation</p>
         <p class="lead">
+            Seller:
             <a href="mailto:@Model.ContactInformation">@Model.ContactInformation</a>
             <br />
             <div class="btn btn-default ">
@@ -15,7 +21,6 @@
                     <h5>See all cars by this user</h5>
                 </a>
             </div>
-            
         </p>
     </div>
     <div class="col-md-4">

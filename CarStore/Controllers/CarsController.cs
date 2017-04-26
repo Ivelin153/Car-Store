@@ -108,6 +108,7 @@
                     Year = c.Year,
                     Type = c.Type,
                     EngineType = c.EngineType,
+                    AdditionalInformation = c.AdditionalInformation,
                     Engine = c.Engine,
                     Power = c.Power,
                     Price = c.Price

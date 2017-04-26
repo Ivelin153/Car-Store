@@ -11,21 +11,27 @@
 {
     <div class="row mt-60">
         <a href="/Cars/Details/@car.Id" class="btn btn-default">
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <img src="@car.ImageUrl" class="img-responsive" />
             </div>
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <h2>@car.Make @car.Model (@car.Year)</h2>
                 <h3>@car.EngineType @car.Engine.ToString("f1")l</h3>
                 <h3>Price: @car.Price BGN</h3>
-                <br />
+                <br />                
                 <h4>See Details</h4>
+            </div>
+            <div class="col-md-4">
+                <div class="size">
+                    @car.AdditionalInformation
+                </div>
+                
             </div>
         </a>
     </div>
 }
 
-@{ 
+@{
     var currentUserQuery = Request.QueryString["user"];
 }
 

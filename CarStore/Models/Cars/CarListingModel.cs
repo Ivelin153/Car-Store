@@ -16,12 +16,17 @@ namespace CarStore.Models.Cars
 
         public string Type { get; set; }
 
+
         public EngineType EngineType { get; set; }
 
         public double Engine { get; set; }
 
         public int Power { get; set; }
 
+        public string AdditionalInformation { get; set; }
+
         public string ImageUrl { get; set; }
+
+        public string ContactInformation { get; set; }
     }
 }
