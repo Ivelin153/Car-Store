@@ -1,5 +1,9 @@
 ﻿@model IEnumerable<CarStore.Models.Cars.CarListingModel>
 
+@{
+    ViewBag.Title = "All Cars";
+}
+
 <h2 class="text-center mt-60">Our Cars - Page @ViewBag.CurrentPage</h2>
 
 @if (!Model.Any())
@@ -22,8 +26,8 @@
                 <h4>See Details</h4>
             </div>
             <div class="col-md-4">
-                <div class="size">
-                    @car.AdditionalInformation
+                <div class="size" style="word-wrap: break-word; white-space: pre-line; text-align: justify;">
+                    <p>@car.AdditionalInformation</p>
                 </div>
                 
             </div>
